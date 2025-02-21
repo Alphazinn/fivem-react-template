@@ -37,10 +37,10 @@ Use the following command in-game to test the input modal:
 ```
 
 ## Development
-UI source files are located in the src directory
-Client-side scripts are in main.lua
-Server-side scripts are in main.lua
-Shared configuration is in config.lua
+UI source files are located in the src directory  
+Client-side scripts are in main.lua  
+Server-side scripts are in main.lua  
+Shared configuration is in config.lua  
 
 ## Project Structure
 ```
